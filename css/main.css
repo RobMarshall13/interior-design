@@ -1,0 +1,25 @@
+#myCarousel{
+    margin-bottom: 20px;
+    margin-top: 150px;
+}
+
+.navbar{
+    background-color:#979694;
+    height: 70px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color:#673f4d;
+    text-align: center;
+}
+
+.navbar a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.background{
+    background-color:#b6b1ad;
+    z-index: 1;
+}
