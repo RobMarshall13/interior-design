@@ -57,21 +57,21 @@
 }
 
 .tiles{
-   background: url(/id-img/wallpaper2.jpg) no-repeat center center fixed; 
+   background: url(id-img/wallpaper2.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   
- ;
+ 
 }
 
-/*.background{
+.background{
   background-color: #b6b1ad;
   opacity: .8;
   z-index: 1;
   
-}*/
+}
 
 #logo{
  
