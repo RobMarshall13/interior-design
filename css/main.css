@@ -57,19 +57,19 @@
 }
 
 .tiles{
-   background: url(id-img/Transparent_Square_Tiles_Texture.png) no-repeat center center fixed; 
+   background: url(/id-img/wallpaper2.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  opacity:;
-  z-index: -1;
+  
+ ;
 }
 
 .background{
   background-color: #b6b1ad;
-  opacity: 1;
-  z-index: 0;
+  opacity: .8;
+  z-index: 1;
   
 }
 
