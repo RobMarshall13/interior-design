@@ -57,7 +57,7 @@
 }
 
 .tiles{
-   background: url("./id-img/wallpaper2.jpg") no-repeat center center fixed; 
+   background: url(../id-img/wallpaper2.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -112,7 +112,7 @@
 }
 
 .carousel-fade .carousel-control {
-  z-index: 2;
+  
    
 }
 
