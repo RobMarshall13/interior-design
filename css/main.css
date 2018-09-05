@@ -23,7 +23,7 @@
 
 .navbar{
   opacity: .9;
-    background-color:#979694;
+    background-color:#645f61;
     height: 70px;
 }
 
@@ -52,24 +52,25 @@
 #btn1,
 #btn2,
 #btn3{
-  background-color: #6c757d;
+  background-color: #645f61;
   border-color:#6c757d;
 }
 
-/*.tiles{
-   background: url(id-img/wallpaper2.jpg) no-repeat center center fixed; 
+.tiles{
+   background: url("./id-img/wallpaper2.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  z-index: 1;
   
  
-}*/
+}
 
 .background{
   background-color: #b6b1ad;
   opacity: .8;
-  z-index: 1;
+  z-index: 0;
   
 }
 
