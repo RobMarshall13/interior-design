@@ -119,10 +119,7 @@
    
 }
 
-/*
-  WHAT IS NEW IN 3.3: "Added transforms to improve carousel performance in modern browsers."
-  Need to override the 3.3 new styles for modern browsers & apply opacity
-*/
+
 @media all and (transform-3d), (-webkit-transform-3d) {
     .carousel-fade .carousel-inner > .item.next,
     .carousel-fade .carousel-inner > .item.active.right {
